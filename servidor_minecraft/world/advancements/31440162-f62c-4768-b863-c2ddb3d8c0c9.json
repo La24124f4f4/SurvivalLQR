@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 22:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-30 21:37:51 +0000"
@@ -239,9 +245,21 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2024-12-30 22:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-30 21:37:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_packed_mud": {
+    "criteria": {
+      "has_wheat": "2024-12-30 22:02:02 +0000"
     },
     "done": true
   },
@@ -260,6 +278,18 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-30 21:44:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-30 22:04:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 22:01:14 +0000"
     },
     "done": true
   },
@@ -350,6 +380,12 @@
   "handcrafted:recipes/misc/oak_drawer": {
     "criteria": {
       "has_oak_drawer": "2024-12-30 21:53:46 +0000"
+    },
+    "done": true
+  },
+  "projectvibrantjourneys:recipes/misc/brown_dye_from_light_brown_bark_mushroom": {
+    "criteria": {
+      "has_light_brown_bark_mushroom": "2024-12-30 22:00:19 +0000"
     },
     "done": true
   },
@@ -851,6 +887,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2024-12-30 22:03:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2024-12-30 21:53:43 +0000"
@@ -908,6 +950,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_toilet": {
     "criteria": {
       "has_copper_ingot": "2024-12-30 21:39:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/pie_crust": {
+    "criteria": {
+      "has_wheat": "2024-12-30 22:02:02 +0000"
     },
     "done": true
   },
@@ -1103,6 +1151,12 @@
     },
     "done": true
   },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2024-12-30 22:02:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:52:36 +0000"
@@ -1154,6 +1208,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-30 21:46:04 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
+    "criteria": {
+      "has_wheat": "2024-12-30 22:02:02 +0000"
     },
     "done": true
   },
@@ -1625,6 +1685,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-30 22:04:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-30 21:46:13 +0000"
@@ -1808,6 +1874,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:52:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-30 22:00:16 +0000"
     },
     "done": true
   },
@@ -2108,6 +2180,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 22:00:16 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_toilet": {
     "criteria": {
       "has_copper_ingot": "2024-12-30 21:39:54 +0000"
@@ -2390,6 +2468,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-30 22:04:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/light_blue_trampoline": {
     "criteria": {
       "has_slime_ball": "2024-12-30 21:40:19 +0000"
@@ -2414,6 +2498,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-12-30 22:02:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/copper_tiles_from_ingots_copper_stonecutting": {
     "criteria": {
       "has_ingots_copper": "2024-12-30 21:39:54 +0000"
@@ -2423,6 +2513,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-30 21:47:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-30 22:02:02 +0000"
     },
     "done": true
   },
@@ -2948,6 +3044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-30 22:04:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/green_sofa": {
     "criteria": {
       "has_planks": "2024-12-30 21:37:44 +0000"
@@ -3030,6 +3132,12 @@
   "refurbished_furniture:recipes/misc/slicing/bread_slice_from_bread": {
     "criteria": {
       "has_bread": "2024-12-30 21:25:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-30 22:04:20 +0000"
     },
     "done": true
   },
@@ -3243,6 +3351,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-30 22:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2024-12-30 21:52:37 +0000"
@@ -3366,6 +3480,12 @@
   "create:recipes/misc/crafting/kinetics/fluid_pipe": {
     "criteria": {
       "has_item": "2024-12-30 21:39:54 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
+    "criteria": {
+      "has_wheat": "2024-12-30 22:02:02 +0000"
     },
     "done": true
   },
@@ -3495,6 +3615,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/constructing/door_mat": {
+    "criteria": {
+      "has_wheat": "2024-12-30 22:02:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-30 21:29:16 +0000"
@@ -3516,6 +3642,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-30 21:57:10 +0000"
+    },
+    "done": true
+  },
+  "bbb:recipes/mossy_stone_brick_layer": {
+    "criteria": {
+      "has_block": "2024-12-30 22:04:20 +0000"
     },
     "done": true
   },
@@ -3744,6 +3876,12 @@
   "refurbished_furniture:recipes/misc/constructing/jungle_basin": {
     "criteria": {
       "has_copper_ingot": "2024-12-30 21:39:54 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/food/mushroom_stew_from_coconut_husk": {
+    "criteria": {
+      "has_brown_mushroom": "2024-12-30 22:00:16 +0000"
     },
     "done": true
   },
@@ -4114,6 +4252,12 @@
   "refurbished_furniture:recipes/misc/constructing/spruce_drawer": {
     "criteria": {
       "has_spruce_planks": "2024-12-30 21:56:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2024-12-30 22:04:20 +0000"
     },
     "done": true
   },

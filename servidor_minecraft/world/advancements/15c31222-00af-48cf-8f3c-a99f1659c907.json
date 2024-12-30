@@ -203,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2024-12-30 22:00:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
       "in_water": "2024-12-30 21:31:28 +0000"
@@ -1577,6 +1583,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-30 21:59:47 +0000"
+    },
+    "done": true
+  },
   "createdeco:recipes/decorations/copper_door": {
     "criteria": {
       "has_item": "2024-12-30 21:45:24 +0000"
@@ -1888,6 +1900,12 @@
   "refurbished_furniture:recipes/misc/constructing/white_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:53:34 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/building_blocks/oak_palisade": {
+    "criteria": {
+      "has_log": "2024-12-30 22:01:58 +0000"
     },
     "done": true
   },
@@ -2291,6 +2309,12 @@
   "securitycraft:recipes/misc/security_camera": {
     "criteria": {
       "has_iron": "2024-12-30 21:53:34 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2024-12-30 22:00:32 +0000"
     },
     "done": true
   },
@@ -2709,6 +2733,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-30 22:01:58 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/magenta_grill": {
     "criteria": {
       "has_iron_ingot": "2024-12-30 21:53:34 +0000"
@@ -2904,6 +2934,12 @@
   "securitycraft:recipes/redstone/laser_block": {
     "criteria": {
       "has_stone": "2024-12-30 21:49:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2024-12-30 22:00:32 +0000"
     },
     "done": true
   },
