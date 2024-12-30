@@ -1,0 +1,17 @@
+{
+	id: "66769a0c-e0df-454d-bb64-cd951e973cf2"
+	type: "player"
+	player_name: "XKOUZ"
+	ranks: {
+		66769a0c-e0df-454d-bb64-cd951e973cf2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "XKOUZ"
+		"ftbteams:description": ""
+		"ftbteams:color": "#70FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

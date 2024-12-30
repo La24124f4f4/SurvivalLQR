@@ -1,0 +1,17 @@
+{
+	id: "0cca5426-c280-4e89-aafe-6565988f9c8d"
+	type: "player"
+	player_name: "Eduxrdo"
+	ranks: {
+		0cca5426-c280-4e89-aafe-6565988f9c8d: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Eduxrdo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF86"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

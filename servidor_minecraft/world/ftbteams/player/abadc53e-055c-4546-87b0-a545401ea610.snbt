@@ -1,0 +1,17 @@
+{
+	id: "abadc53e-055c-4546-87b0-a545401ea610"
+	type: "player"
+	player_name: "diex_x"
+	ranks: {
+		abadc53e-055c-4546-87b0-a545401ea610: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "diex_x"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5973FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

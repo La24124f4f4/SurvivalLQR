@@ -1,0 +1,17 @@
+{
+	id: "15c31222-00af-48cf-8f3c-a99f1659c907"
+	type: "player"
+	player_name: "Nicxlv"
+	ranks: {
+		15c31222-00af-48cf-8f3c-a99f1659c907: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Nicxlv"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FF67"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

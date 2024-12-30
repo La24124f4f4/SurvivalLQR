@@ -1,0 +1,17 @@
+{
+	id: "8879014e-997b-4a11-9b8f-8953c96637df"
+	type: "player"
+	player_name: "sacracoronaj"
+	ranks: {
+		8879014e-997b-4a11-9b8f-8953c96637df: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "sacracoronaj"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EEFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

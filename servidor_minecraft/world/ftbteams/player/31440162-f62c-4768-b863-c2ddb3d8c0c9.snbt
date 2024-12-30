@@ -1,0 +1,17 @@
+{
+	id: "31440162-f62c-4768-b863-c2ddb3d8c0c9"
+	type: "player"
+	player_name: "jonx_x"
+	ranks: {
+		31440162-f62c-4768-b863-c2ddb3d8c0c9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jonx_x"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59A5FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

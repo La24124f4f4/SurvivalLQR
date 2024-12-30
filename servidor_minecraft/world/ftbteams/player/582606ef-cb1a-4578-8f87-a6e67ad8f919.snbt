@@ -1,0 +1,17 @@
+{
+	id: "582606ef-cb1a-4578-8f87-a6e67ad8f919"
+	type: "player"
+	player_name: "Tiukk"
+	ranks: {
+		582606ef-cb1a-4578-8f87-a6e67ad8f919: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Tiukk"
+		"ftbteams:description": ""
+		"ftbteams:color": "#599CFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
