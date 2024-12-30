@@ -220,6 +220,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-30 21:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2024-12-30 21:32:13 +0000"
@@ -244,11 +250,23 @@
     },
     "done": true
   },
+  "immersive_weathering:recipes/moss_clump": {
+    "criteria": {
+      "has_copper_block": "2024-12-30 21:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2024-12-30 21:33:05 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 21:44:33 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/map": {
     "criteria": {
@@ -262,11 +280,29 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
+    "criteria": {
+      "has_any_ingredient": "2024-12-30 21:44:44 +0000"
+    },
+    "done": true
+  },
   "lootr:social": {
     "criteria": {
       "opened_chest": "2024-12-30 21:32:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2024-12-30 21:44:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/building_blocks/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2024-12-30 21:44:33 +0000"
+    },
+    "done": true
   },
   "handcrafted:recipes/misc/stackable_book": {
     "criteria": {
@@ -277,6 +313,12 @@
   "lootr:1chest": {
     "criteria": {
       "opened_chest": "2024-12-30 21:32:11 +0000"
+    },
+    "done": true
+  },
+  "ecologics:recipes/ecologics/surface_moss": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 21:44:33 +0000"
     },
     "done": true
   },
@@ -295,6 +337,24 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2024-12-30 21:33:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 21:44:33 +0000"
+    },
+    "done": true
+  },
+  "immersive_weathering:recipes/moss_block": {
+    "criteria": {
+      "has_copper_block": "2024-12-30 21:44:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2024-12-30 21:44:33 +0000"
     },
     "done": true
   },
